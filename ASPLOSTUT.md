@@ -35,6 +35,8 @@ Figure on the right shows a brief overview of OMEGA framework built on top of ST
 
 ## SCHEDULE
 
+The schedule is as follows
+
       <table style="width:100%">
         <colgroup>
            <col span="1" style="width: 10%;">
