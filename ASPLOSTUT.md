@@ -17,9 +17,7 @@ Date: 28th February 2022
 
 ## SCHEDULE
 
-## RESOURCES
-
-### Github codebases
+## Github codebases
 
 #### STONNE
 
@@ -28,7 +26,7 @@ https://github.com/stonne-simulator/stonne
 #### OMEGA
 Coming soon
 
-### Publications
+## Publications
 
 #### STONNE
 
