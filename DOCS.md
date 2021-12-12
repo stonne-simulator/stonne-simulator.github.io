@@ -1,3 +1,5 @@
+#### [HOME][README.md]
+
 # Documentation
 
 ## STONNE USER INTERFACE. HOW TO RUN STONNE QUICKLY.
