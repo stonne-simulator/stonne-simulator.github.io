@@ -3,6 +3,7 @@
 <p align="center">
  <img src="figures/stonne-logo.png" height=15% width=15%>
 </p>
+
 # STONNE: A Simulation Tool for Neural Networks Engines
 
 ## WHAT IS STONNE
