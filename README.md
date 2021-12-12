@@ -4,7 +4,7 @@
  <img src="figures/stonne-logo.png" height=15% width=15%>
 </p>
 
-<h1 align = "center"> STONNE: A Simulation Tool for Neural Networks Engines </h1>
+# STONNE: A Simulation Tool for Neural Networks Engines 
 
 ## WHAT IS STONNE
 The design of specialized architectures for accelerating the inference procedure of Deep Neural Networks (DNNs) is a booming area of research nowadays. While first-generation accelerator proposals used simple fixed dataflows tailored for 
