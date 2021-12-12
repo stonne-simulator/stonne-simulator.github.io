@@ -1,12 +1,4 @@
-### [Documentation](DOCS.md) &nbsp; &nbsp; &nbsp; &nbsp; [ASPLOS 2022 Tutorial](ASPLOSTUT.md)
-
-### [OMEGA](OMEGA.md)
-
-### [Features](FEATURE.md)
-
-### [Codebase](https://github.com/stonne-simulator/stonne)
-
-### [Resources](RESOURCES.md)
+### [Documentation](DOCS.md) &nbsp; &nbsp; &nbsp; &nbsp; [ASPLOS 2022 Tutorial](ASPLOSTUT.md) &nbsp; &nbsp; &nbsp; &nbsp; [OMEGA](OMEGA.md)&nbsp; &nbsp; &nbsp; &nbsp; [Features](FEATURE.md) &nbsp; &nbsp; &nbsp; &nbsp; [Codebase](https://github.com/stonne-simulator/stonne) &nbsp; &nbsp; &nbsp; &nbsp; [Resources](RESOURCES.md)
 
 # STONNE: A Simulation Tool for Neural Networks Engines
 
