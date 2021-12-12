@@ -1,5 +1,4 @@
-[Documentation](DOCS.md)      
-[Features](FEATURE.md)
+[Documentation](DOCS.md)         [Features](FEATURE.md)
 
 # STONNE: A Simulation Tool for Neural Networks Engines
 
