@@ -1,6 +1,9 @@
-[Documentation](DOCS.md)<br>
+[Documentation](DOCS.md)
+
 [Features](FEATURE.md)
-[Codebase](https://github.com/stonne-simulator/stonne) <br>
+
+[Codebase](https://github.com/stonne-simulator/stonne)
+
 [Resources]
 
 # STONNE: A Simulation Tool for Neural Networks Engines
