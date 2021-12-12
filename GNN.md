@@ -15,3 +15,5 @@ To enable this, we propose a taxonomy that expresses: (1) *Aggregation intra-pha
 We also demonstrate the OMEGA (**O**bserving **M**apping **E**fficiency over **G**NN **A**ccelerator) framework that we build on top of [STONNE](README.md) which enables us to model the cost of the pipelined GNN dataflows. It instantiates SpMM and GEMM on STONNE's flexible accelerator model [MAERI](https://dl.acm.org/doi/pdf/10.1145/3173162.3173176) and feeds the statistics to an inter-phase cost model that returns the metrics of a pipelined inter-phase dataflow as shown in Figure below.
 
 <img src="figures/omega.png">
+
+For more details, please refer to the [pre-print](https://arxiv.org/pdf/2103.07977)
