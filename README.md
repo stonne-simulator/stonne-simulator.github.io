@@ -23,6 +23,8 @@ For more details on the API and the features, please refer to the [following lin
 
 STONNE simulator can also be called from within PyTorch. Please refer to the [documentation](DOCS.md).
 
+STONNE simulator also extends beyond DNNs to other applications like Graph Neural Networks
+
 ## Bibtex Citation
 Please, if you use STONNE, please cite us:
 ```
