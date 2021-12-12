@@ -35,6 +35,98 @@ Figure on the right shows a brief overview of OMEGA framework built on top of ST
 
 ## SCHEDULE
 
+      <table style="width:100%">
+        <colgroup>
+           <col span="1" style="width: 10%;">
+           <col span="1" style="width: 50%;">
+           <col span="1" style="width: 15%;">
+           <col span="1" style="width: 25%;">
+        </colgroup>
+        <tbody>
+          <tr style="border-bottom:1px solid black;">
+            <th><strong>Time</strong></th>
+            <th><strong>Agenda</strong></th>
+            <th><strong>Presenter</strong></th>
+            <th><strong>Resources</strong></th>
+          </tr>
+          <tr style="border-bottom:1px solid black;">
+            <td>10:10-10:45</td>
+            <td>Introduction to DNNs and Accelerator Design</td>
+            <td>Tushar, Paul</td>
+            <td>
+              <a href="https://github.com/scalesim-project/tutorial-asplos-2021/raw/main/slides/SCALE-Sim_Tutorial_ASPLOS2021_1_Intro.pdf">[Slides],</a>
+              <a href="https://youtu.be/IE8idi9B_Do">[Youtube]</a>
+            </td>
+          </tr>
+
+          <tr style="border-bottom:1px solid black;">
+            <td>10:45-11:15</td>
+            <td>Overview of SCALE-Sim</td>
+            <td>Paul, Anand, Moritz</td>
+            <td>
+                <a href="https://github.com/scalesim-project/tutorial-asplos-2021/raw/main/slides/SCALE-Sim_Tutorial_ASPLOS2021_2_Overview.pdf">[Slides],</a>
+                <a href="https://youtu.be/AWgzEK4gsvg">[Youtube],</a>
+                <a href="https://colab.research.google.com/drive/1ORfJNXHRRlVSTL0R4kGJX-1a-YXnOKj1">[Colab Notebook]</a>
+            </td>
+          </tr>
+
+          <tr style="border-bottom:1px solid black;">
+            <td>11:15-11:50</td>
+            <td>Tutorial 1: Design Space Exploration using SCALE-Sim</td>
+            <td>Anand</td>
+            <td>
+                <a href="https://github.com/scalesim-project/tutorial-asplos-2021/raw/main/slides/SCALE-Sim_Tutorial_ASPLOS2021_3_Tutorial1.pdf">[Slides],</a>
+                <a href="https://youtu.be/P0rkGWQF2xY">[Youtube]</a>
+                <!-- Anand: We will provide the material again in the next tutorial -->
+                <!--<a href="https://github.com/scalesim-project/scalesim-tutorial-materials/blob/main/scalesim_tutorial1_template.ipynb">[material]</a> -->
+            </td>
+          </tr>
+
+          <tr style="border-bottom:1px solid black;">
+            <td>noon-12:40</td>
+            <td>Tutorial 2: Modifying SCALE-Sim to add custom features</td>
+            <td>Moritz</td>
+            <td>
+              <a href="https://github.com/scalesim-project/tutorial-asplos-2021/raw/main/slides/SCALE-Sim_Tutorial_ASPLOS2021_4_Tutorial2.pdf">[Slides],</a>
+              <a href="https://youtu.be/aonxi6sDgZE">[Youtube]</a>
+              <!-- Anand: We will add this back again in the next tutorial
+                <a href="https://github.com/scalesim-project/scale-sim-v2/tree/tutorial/asplos%2Ftutorial2">[code (github)]</a>,
+                <a href="https://github.com/scalesim-project/tutorial-asplos-2021/blob/main/tutorial2.sh">[helper script]</a>,
+                <a href="https://github.com/scalesim-project/tutorial-asplos-2021/raw/main/double_buffered_tutorial2_scratchpad_mem.py">[new memory]</a>,
+                <a href="https://github.com/scalesim-project/tutorial-asplos-2021/raw/main/single_layer_sim.py">[include memory]</a>
+              -->
+              <!--<ul>
+                <li><a href="https://github.com/scalesim-project/tutorial-asplos-2021/raw/main/slides/SCALE-Sim_Tutorial_ASPLOS2021_4_Tutorial2.pdf">[Slides]</a></li>
+                <li><a href="https://github.com/scalesim-project/scale-sim-v2/tree/tutorial/asplos%2Ftutorial2">[code (github)]</a></li>
+                <li><a href="https://github.com/scalesim-project/tutorial-asplos-2021/blob/main/tutorial2.sh">[helper script]</a></li>
+                <li><a href="https://github.com/scalesim-project/tutorial-asplos-2021/raw/main/double_buffered_tutorial2_scratchpad_mem.py">[new memory]</a></li>
+                <li><a href="https://github.com/scalesim-project/tutorial-asplos-2021/raw/main/single_layer_sim.py">[include memory]</a></li>
+              </ul>-->
+            </td>
+          </tr>
+
+          <tr style="border-bottom:1px solid black;">
+            <td>12:45-1:30</td>
+            <td>Tutorial 3: Using SCALE-Sim to build larger simulators</td>
+            <td>Anand</td>
+            <td>
+              <a href="https://github.com/scalesim-project/tutorial-asplos-2021/raw/main/slides/SCALE-Sim_Tutorial_ASPLOS2021_5_Tutorial3.pdf">[Slides],</a>
+              <a href="https://youtu.be/bHshg90aRvA">[Youtube]</a>
+            </td>
+          </tr>
+
+          <tr style="border-bottom:1px solid black;">
+            <td>1:30-2:00</td>
+            <td>Plenum: Discussion on future roadmap, planned features, and a ideas from the community</td>
+            <td>Yuhao</td>
+            <td>
+              <a href="https://github.com/scalesim-project/tutorial-asplos-2021/raw/main/slides/SCALE-Sim_Tutorial_ASPLOS2021_6_Plenum.pdf">[Slides]</a>
+            </td>
+          </tr>
+
+        </tbody>
+      </table>
+
 ## CODEBASES
 
 ### STONNE
