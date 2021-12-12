@@ -2,6 +2,8 @@
 
 ### [ASPLOS 2022 Tutorial](ASPLOSTUT.md)
 
+### [OMEGA](OMEGA.md)
+
 ### [Features](FEATURE.md)
 
 ### [Codebase](https://github.com/stonne-simulator/stonne)
@@ -25,7 +27,7 @@ For more details on the API and the features, please refer to the [following lin
 
 STONNE simulator can also be called from within PyTorch. Please refer to the [documentation](DOCS.md).
 
-STONNE simulator also extends beyond DNNs to other applications like Graph Neural Networks
+STONNE simulator also extends beyond DNNs to other applications like Graph Neural Networks. For more details, please check [OMEGA](OMEGA.md)
 
 ## Bibtex Citation
 Please, if you use STONNE, please cite us:
