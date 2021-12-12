@@ -20,7 +20,8 @@ Please, if you use STONNE, please cite us:
 
 ## DESIGN OF STONNE
 
-![alt text](https://github.com/francisco-munoz/stonne/blob/master/figures/Top_Level_Stonne_shorter.png)
+![alt text]
+(https://github.com/francisco-munoz/stonne/blob/master/figures/Top_Level_Stonne_shorter.png)
 
 STONNE is a cycle-level microarchitectural simulator for flexible DNN inference accelerators. To allow for end-to-end evaluations, the simulator is connected with a Deep Learning (DL) framework (Caffe and Pytorch DL frameworks in the current version). Therefore, STONNE can fully execute any dense and sparse DNN models supported by the DL framework that uses as its front-end.
  The simulator has been written entirely in C++, following the well-known GRASP and SOLID programming principles of object-oriented design. This has simplified its development and makes it easier the implementation of any kind of DNN inference accelerator microarchitecture, tile configuration mappings and dataflows.
