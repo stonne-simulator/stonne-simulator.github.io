@@ -13,23 +13,15 @@ https://github.com/stonne-simulator/stonne
 ### STONNE
 
 Francisco Muñoz-Matrínez, José L. Abellán, Manuel E. Acacio, and Tushar Krishna. Stonne: Enabling cycle-level microarchitectural simulation for dnn inference accelerators.  In 2021 IEEE International Symposium on Workload Characterization (IISWC), 2021
-<details>
-  <summary>
-    <B>Bibtex</B>
-  </summary>
-  ```
-@INPROCEEDINGS{STONNE21,
-  author =       {Francisco Mu{\~n}oz-Matr{\'i}nez and Jos{\'e} L. Abell{\'a}n and Manuel E. Acacio and Tushar Krishna},
-  title =        {STONNE: Enabling Cycle-Level Microarchitectural Simulation for DNN Inference Accelerators},
-  booktitle =    {2021 IEEE International Symposium on Workload Characterization (IISWC)}, 
-  year =         {2021},
-  volume =       {},
-  number =       {},
-  pages =        {},
-}
-```
 
-</details>
+### OMEGA
+
+Raveesh Garg, Eric Qin, Francisco Muñoz-Martínez, Robert Guirado, Akshay Jain, Sergi Abadal, José L Abellán, Manuel E Acacio, Eduard Alarcón, Sivasankaran Rajamanickam, and Tushar Krishna.  Understanding the design space of sparse/dense multiphase dataflows for mapping Graph Neural Networks on spatial accelerators. arXiv preprint arXiv:2103.07977, 2021.
+
+
+## Bibtex
+
+### STONNE
 
 ```
 @INPROCEEDINGS{STONNE21,
@@ -44,10 +36,6 @@ Francisco Muñoz-Matrínez, José L. Abellán, Manuel E. Acacio, and Tushar Kris
 ```
 
 ### OMEGA
-
-Raveesh Garg, Eric Qin, Francisco Muñoz-Martínez, Robert Guirado, Akshay Jain, Sergi Abadal, José L Abellán, Manuel E Acacio, Eduard Alarcón, Sivasankaran Rajamanickam, and Tushar Krishna.  Understanding the design space of sparse/dense multiphase dataflows for mapping Graph Neural Networks on spatial accelerators. arXiv preprint arXiv:2103.07977, 2021.
-
-**Bibtex**
 
 ```
 @article{garg2021understanding,
