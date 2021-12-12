@@ -1,4 +1,4 @@
-### [Documentation](DOCS.md) &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp [ASPLOS 2022 Tutorial](ASPLOSTUT.md)
+### [Documentation](DOCS.md) &nbsp &nbsp &nbsp &nbsp [ASPLOS 2022 Tutorial](ASPLOSTUT.md)
 
 ### [OMEGA](OMEGA.md)
 
