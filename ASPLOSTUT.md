@@ -38,5 +38,9 @@ Francisco Muñoz-Matrínez, José L. Abellán, Manuel E. Acacio, and Tushar Kris
 
 Raveesh Garg, Eric Qin, Francisco Muñoz-Martínez, Robert Guirado, Akshay Jain, Sergi Abadal, José L Abellán, Manuel E Acacio, Eduard Alarcón, Sivasankaran Rajamanickam, and Tushar Krishna.  Understanding the design space of sparse/dense multiphase dataflows for mapping Graph Neural Networks on spatial accelerators. arXiv preprint arXiv:2103.07977, 2021. [(pdf)](https://arxiv.org/pdf/2103.07977)
 
+## CITATIONS
+
+If you use STONNE or OMEGA framework in your research. Please cite-
+
 ## CONTACT
 Francisco Muñoz-Martínez - francisco.munoz2@um.es
