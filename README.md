@@ -1,4 +1,4 @@
-#### [Documentation](DOCS.md) &nbsp; &nbsp; &nbsp; &nbsp; [ASPLOS 2022 Tutorial](ASPLOSTUT.md) &nbsp; &nbsp; &nbsp; &nbsp; [OMEGA](OMEGA.md)&nbsp; &nbsp; &nbsp; &nbsp; [Features](FEATURE.md) &nbsp; &nbsp; &nbsp; &nbsp; [Codebase](https://github.com/stonne-simulator/stonne) &nbsp; &nbsp; &nbsp; &nbsp; [Resources](RESOURCES.md)
+#### [Documentation](DOCS.md) &nbsp; &nbsp; &nbsp; &nbsp; [ASPLOS 2022 Tutorial](ASPLOSTUT.md) &nbsp; &nbsp; &nbsp; &nbsp; [GNN-Dataflow](OMEGA.md)&nbsp; &nbsp; &nbsp; &nbsp; [Features](FEATURE.md) &nbsp; &nbsp; &nbsp; &nbsp; [Codebase](https://github.com/stonne-simulator/stonne) &nbsp; &nbsp; &nbsp; &nbsp; [Resources](RESOURCES.md)
 
 # STONNE: A Simulation Tool for Neural Networks Engines
 
@@ -17,7 +17,7 @@ For more details on the API and the features, please refer to the [following lin
 
 STONNE simulator can also be called from within PyTorch. Please refer to the [documentation](DOCS.md).
 
-STONNE simulator also extends beyond DNNs to other applications like Graph Neural Networks. For more details, please check [OMEGA](OMEGA.md)
+STONNE simulator also extends beyond DNNs to other applications like Graph Neural Networks. For more details, please check [GNN-Dataflow](GNN.md)
 
 ## Bibtex Citation
 Please, if you use STONNE, please cite us:
