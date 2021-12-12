@@ -28,7 +28,7 @@ In this tutorial we demonstrate how STONNE enables research on DNNs accelerators
     <figcaption>STONNE Simulator Overview</figcaption>
 </figure>
    <figure>
-     <img src="figures/omega.png height="50%" width="50%"">
+     <img src="figures/omega.png height="50%" width="50%">
     <figcaption>OMEGA Framework Overview</figcaption>
 </figure>
 </p>
