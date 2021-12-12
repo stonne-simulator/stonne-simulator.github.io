@@ -2,3 +2,7 @@
 
 
 <h1 align=center>GNN Dataflow Exploration using OMEGA</h1>
+
+## Taxonomy for GNN Dataflows
+
+## OMEGA Framework
