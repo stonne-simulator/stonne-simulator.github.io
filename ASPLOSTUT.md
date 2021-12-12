@@ -23,11 +23,8 @@ As the complexity of these accelerators grows, the analytical models currently b
 In this tutorial we demonstrate how STONNE enables research on DNNs accelerators by means of several use cases that range from the microarchitectural networks on-chip present in DNN accelerators to the scheduling strategies that can be utilized to improve energy efficiency in sparse accelerators. Further, we present OMEGA, another framework built on top of STONNE that enables the exploration of dataflows for accelerators for multi-phase GNN applications which are gaining popularity in the AI and HPC community.
 
 <p align="center">
-  <figure>
       <img src="figures/Top_Level_Stonne_shorter.png">
-    <figcaption>STONNE Simulator Overview</figcaption>
      <img src="figures/omega.png" height="50%" width="50%">
-    <figcaption>OMEGA Framework Overview</figcaption>
 </figure>
 </p>
 
