@@ -39,3 +39,5 @@ Please, if you use STONNE, please cite us:
   pages =        {},
 }
 ```
+## Contact
+For any questions or issues related to the simulator, contact https://github.com/stonne-simulator/stonne/issues.
