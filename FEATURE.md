@@ -32,7 +32,7 @@ Furthermore, since these DL frameworks require a more complicated installation a
 STONNE models all the major components required to build both first-generation rigid accelerators and next-generation flexible DNN accelerators. All the on-chip components are interconnected by using a three-tier network fabric composed of a Distribution Network(DN), a Multiplier Network (MN), and a Reduce Network (RN), inspired by the taxonomy of on-chip communication flows within DNN accelerators. These networks can be configured to support any topology. An accelerator can be built from these as shown in the following figure-
 
 <p align="center">
-<img src="figures/template.png">
+<img src="figures/template.png" height="50%" width="50%">
 </p>
 
 Next, we describe the different topologies of the three networks (DN, MN and RN) currently supported in STONNE that are basic building blocks of state-of-the-art accelerators such as the Google’s TPU, Eyeriss-v2, ShDianNao, SCNN, MAERI and SIGMA, among others. These building blocks can also be seen in the figure presented below:
