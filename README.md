@@ -1,4 +1,4 @@
-[Docs](DOCS.md)Documentation
+[Documentation](DOCS.md)
 
 # STONNE: A Simulation Tool for Neural Networks Engines
 
