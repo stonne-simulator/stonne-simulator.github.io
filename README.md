@@ -40,4 +40,4 @@ Please, if you use STONNE, please cite us:
 }
 ```
 ## Contact
-For any questions or issues related to the simulator, contact https://github.com/stonne-simulator/stonne/issues.
+For any questions or issues related to the simulator, submit an issue at https://github.com/stonne-simulator/stonne/issues.
