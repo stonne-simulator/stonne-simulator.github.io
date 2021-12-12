@@ -37,7 +37,10 @@ Figure on the right shows a brief overview of OMEGA framework built on top of ST
 
 The schedule is as follows
 
-
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 ## CODEBASES
 
