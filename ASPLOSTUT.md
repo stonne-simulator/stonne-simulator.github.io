@@ -25,7 +25,6 @@ In this tutorial we demonstrate how STONNE enables research on DNNs accelerators
 <p align="center">
       <img src="figures/Top_Level_Stonne_shorter.png">
      <img src="figures/omega.png" height="50%" width="50%">
-</figure>
 </p>
 
 The figures above give a brief overview of STONNE and OMEGA frameworks.
