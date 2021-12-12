@@ -1,5 +1,7 @@
 ### [Documentation](DOCS.md)
 
+### [ASPLOS 2022 Tutorial](ASPLOSTUT.md)
+
 ### [Features](FEATURE.md)
 
 ### [Codebase](https://github.com/stonne-simulator/stonne)
