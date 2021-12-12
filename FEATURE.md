@@ -1,6 +1,6 @@
 # About STONNE
 
-## DESIGN OF STONNE
+**DESIGN OF STONNE
 
 ![alt text](figures/Top_Level_Stonne_shorter.png)
 
