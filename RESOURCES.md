@@ -13,8 +13,23 @@ https://github.com/stonne-simulator/stonne
 ### STONNE
 
 Francisco Muñoz-Matrínez, José L. Abellán, Manuel E. Acacio, and Tushar Krishna. Stonne: Enabling cycle-level microarchitectural simulation for dnn inference accelerators.  In 2021 IEEE International Symposium on Workload Characterization (IISWC), 2021
+<details>
+  <summary>
+    <B>Bibtex</B>
+  </summary>
+  ```
+@INPROCEEDINGS{STONNE21,
+  author =       {Francisco Mu{\~n}oz-Matr{\'i}nez and Jos{\'e} L. Abell{\'a}n and Manuel E. Acacio and Tushar Krishna},
+  title =        {STONNE: Enabling Cycle-Level Microarchitectural Simulation for DNN Inference Accelerators},
+  booktitle =    {2021 IEEE International Symposium on Workload Characterization (IISWC)}, 
+  year =         {2021},
+  volume =       {},
+  number =       {},
+  pages =        {},
+}
+```
 
-**Bibtex**
+</details>
 
 ```
 @INPROCEEDINGS{STONNE21,
