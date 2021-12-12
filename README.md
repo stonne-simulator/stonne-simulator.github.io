@@ -1,3 +1,5 @@
+[Docs](DOCS.md)Documentation
+
 # STONNE: A Simulation Tool for Neural Networks Engines
 
 ## WHAT IS STONNE
