@@ -7,11 +7,11 @@ Date: 28th February 2022
 
 ## ORGANIZERS
 
-[Francisco Munoz-Martinez](https://www.linkedin.com/in/fr-munoz-mrtinez/)<br>
-[Raveesh Garg](https://www.linkedin.com/in/raveesh-garg-61b47b150/)<br>
-[Tushar Krishna](https://tusharkrishna.ece.gatech.edu)<br>
-[Jose L. Abellan](https://sites.google.com/ucam.edu/jlabellan/)<br>
-[Manuel E. Acacio](https://webs.um.es/meacacio/)<br>
+[Francisco Muñoz-Martínez](https://www.linkedin.com/in/fr-munoz-mrtinez/) (Universidad de Murcia) <br>
+[Raveesh Garg](https://www.linkedin.com/in/raveesh-garg-61b47b150/) (Georgia Institute of Technology) <br>
+[Tushar Krishna](https://tusharkrishna.ece.gatech.edu) (Georgia Institute of Technology) <br>
+[José L. Abellán](https://sites.google.com/ucam.edu/jlabellan/) (Universidad Católica de Murcia) <br>
+[Manuel E. Acacio](https://webs.um.es/meacacio/) (Universidad de Murcia) <br>
 
 
 
