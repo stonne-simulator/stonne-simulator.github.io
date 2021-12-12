@@ -4,8 +4,10 @@
 
 ## DESIGN OF STONNE
 
-![alt text](figures/Top_Level_Stonne_shorter.png)
-
+<p align="center">
+<img src="figures/Top_Level_Stonne_shorter.png">
+</p>
+ 
 STONNE is a cycle-level microarchitectural simulator for flexible DNN inference accelerators. To allow for end-to-end evaluations, the simulator is connected with a Deep Learning (DL) framework (Caffe and Pytorch DL frameworks in the current version). Therefore, STONNE can fully execute any dense and sparse DNN models supported by the DL framework that uses as its front-end.
  The simulator has been written entirely in C++, following the well-known GRASP and SOLID programming principles of object-oriented design. This has simplified its development and makes it easier the implementation of any kind of DNN inference accelerator microarchitecture, tile configuration mappings and dataflows.
 
@@ -29,7 +31,6 @@ Furthermore, since these DL frameworks require a more complicated installation a
 
 STONNE models all the major components required to build both first-generation rigid accelerators and next-generationflexible DNN accelerators. All the on-chip components are interconnected by using a three-tier network fabric composed of a Distribution Network(DN), a Multiplier Network (MN), and a Reduce Network(RN), inspired by the taxonomy of on-chip communication flows within DNN accelerators. These networks canbe configured to support any topology. Next, we describe the different topologies of the three networks (DN, MN and RN) currently supported in STONNE that are basic building blocks of state-of-the-art accelerators such as the Google’s TPU, Eyeriss-v2, ShDianNao, SCNN, MAERI and SIGMA, among others. These building blocks can also be seen in the figure presented below:
 
-![alt text](figures/STONNE_components.png)
-
-
-
+<p align="center">
+<img src="figures/STONNE_components.png">
+</p>
