@@ -3,6 +3,8 @@
 
 <h1 align=center>GNN Dataflow Exploration using OMEGA</h1>
 
+Graph Neural Networks
+
 ## Taxonomy for GNN Dataflows
 
 ## OMEGA Framework
