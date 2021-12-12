@@ -4,7 +4,7 @@
 
 [Codebase](https://github.com/stonne-simulator/stonne)
 
-[Resources]
+[Resources](RESOURCES.md)
 
 # STONNE: A Simulation Tool for Neural Networks Engines
 
