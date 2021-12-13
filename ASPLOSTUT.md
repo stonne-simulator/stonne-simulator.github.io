@@ -35,7 +35,7 @@ Figure on the right shows a brief overview of OMEGA framework built on top of ST
 
 ## SCHEDULE
 
-The schedule is as follows
+The planned schedule is as follows
 
 | Time        | Agenda                                                          |Presenter         |
 | ----------- | --------------------------------------------------------------- |------------------|
