@@ -37,10 +37,14 @@ Figure on the right shows a brief overview of OMEGA framework built on top of ST
 
 The schedule is as follows
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Time        | Agenda                                                          |Presenter         |
+| ----------- | --------------------------------------------------------------- |------------------|
+| 15 min      | DNN and GNN Accelerators, Dataflows and Flexible Accelerators   |Tushar            |
+| 15 min      | Cycle accurate simulation motivation and Overview of STONNE     |Manuel, Francisco |
+| 30 min      | (Hands-on) Simulating Dense and Data-dependent DNN Accelerators |Francisco         |
+| 30 min      | (Hands-on) Pytorch and DRAM Integration                         |Francisco         |
+| 15 min      | Research usecases of STONNE - DNN Architecture and Scheduling   |Francisco         |
+| 30 min      | GNN                            |Raveesh         |
 
 ## CODEBASES
 
