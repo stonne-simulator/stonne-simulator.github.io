@@ -44,7 +44,9 @@ The schedule is as follows
 | 30 min      | (Hands-on) Simulating Dense and Data-dependent DNN Accelerators |Francisco         |
 | 30 min      | (Hands-on) Pytorch and DRAM Integration                         |Francisco         |
 | 15 min      | Research usecases of STONNE - DNN Architecture and Scheduling   |Francisco         |
-| 30 min      | GNN                            |Raveesh         |
+| 30 min      | Beyond DNNs - Dataflow exploration for Graph Neural Networks    |Raveesh           |
+| 15 min      | (Hands-on) Cost-modelling GNN Dataflows using OMEGA and STONNE  |Raveesh           |
+| 15 min      | Roadmap for future research/development                         |Jose Luis         |
 
 ## CODEBASES
 
