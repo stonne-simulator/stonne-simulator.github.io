@@ -39,7 +39,7 @@ The planned schedule is as follows
 
 | Time        | Agenda                                                          |Presenter         |
 | ----------- | --------------------------------------------------------------- |------------------|
-| 15 min      | DNN and GNN Accelerators, Dataflows and Flexible Accelerators   |Tushar            |
+| 15 min      | DNN and GNN Accelerators; Flexible Accelerators                 |Tushar         |
 | 15 min      | Cycle accurate simulation motivation and Overview of STONNE     |Manuel, Francisco |
 | 30 min      | (Hands-on) Simulating Dense and Data-dependent DNN Accelerators |Francisco         |
 | 30 min      | (Hands-on) Pytorch and DRAM Integration                         |Francisco         |
