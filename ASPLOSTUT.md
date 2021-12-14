@@ -1,7 +1,7 @@
 #### [HOME](README.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Features](FEATURE.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Documentation](DOCS.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [ASPLOS 2022 Tutorial](ASPLOSTUT.md) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [GNN-Dataflow](GNN.md)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [Codebase](https://github.com/stonne-simulator/stonne) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Resources](RESOURCES.md)
 
 
-<h1 align=center>ASPLOS 2022 STONNE+OMEGA Tutorial</h1>
+<h1 align=center>ASPLOS 2022 STONNE Tutorial</h1>
 
 Date: 28th February 2022
 
@@ -45,7 +45,7 @@ The planned schedule is as follows
 | 30 min      | (Hands-on) Pytorch and DRAM Integration                         |Francisco         |
 | 15 min      | Research usecases of STONNE - DNN Architecture and Scheduling   |Francisco         |
 | 30 min      | Beyond DNNs - Dataflow exploration for Graph Neural Networks    |Raveesh           |
-| 15 min      | (Hands-on) Cost-modelling GNN Dataflows using OMEGA and STONNE  |Raveesh           |
+| 15 min      | (Hands-on) OMEGA - A cost model for GNN Dataflows built on STONNE |Raveesh           |
 | 15 min      | Roadmap for future research/development                         |Jose Luis         |
 
 ## CODEBASES
