@@ -39,13 +39,13 @@ The planned schedule is as follows
 
 | Time        | Agenda                                                          |Presenter         |
 | ----------- | --------------------------------------------------------------- |------------------|
-| 15 min      | DNN and GNN Accelerators; Flexible Accelerators                 |Tushar         |
+| 15 min      | DNN and GNN Accelerators; Flexible Accelerators                 |Tushar            |
 | 15 min      | Cycle accurate simulation motivation and Overview of STONNE     |Manuel, Francisco |
 | 30 min      | (Hands-on) Simulating Dense and Data-dependent DNN Accelerators |Francisco         |
 | 30 min      | (Hands-on) Pytorch and DRAM Integration                         |Francisco         |
 | 15 min      | Research usecases of STONNE - DNN Architecture and Scheduling   |Francisco         |
 | 30 min      | Beyond DNNs - Dataflow exploration for Graph Neural Networks    |Raveesh           |
-| 15 min      | (Hands-on) OMEGA - A cost model for GNN Dataflows built on STONNE |Raveesh           |
+| 15 min      | (Hands-on) OMEGA - A cost model for GNN Dataflows               |Raveesh           |
 | 15 min      | Roadmap for future research/development                         |Jose Luis         |
 
 ## CODEBASES
