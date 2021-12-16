@@ -20,7 +20,7 @@ STONNE is a cycle-level microarchitectural simulator for flexible DNN inference 
 
 The figure presented above shows a high-level view of STONNE with the three major modules involved in the end-to-end simulation flow.
 
-For more details on the API and the features, please refer to the [following link](FEATURES.md).
+For more details on the API and the features, please refer to the [following link](FEATURE.md).
 
 STONNE simulator can also be called from within PyTorch. Please refer to the [documentation](DOCS.md).
 
