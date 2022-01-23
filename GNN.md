@@ -18,4 +18,5 @@ We also demonstrate the OMEGA (**O**bserving **M**apping **E**fficiency over **G
 <img src="figures/omega.png">
 
 For more details, please refer to our [pre-print](https://arxiv.org/pdf/2103.07977).
+
 Update: The paper has been accepted for publication in IPDPS 2022
