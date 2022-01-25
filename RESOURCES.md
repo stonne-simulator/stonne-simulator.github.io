@@ -8,7 +8,7 @@ https://github.com/stonne-simulator/stonne
 
 ### OMEGA ([Cost model for GNN Dataflows](GNN.md))
 
-#### Coming soon
+https://github.com/stonne-simulator/omega
 
 ## Publications
 
