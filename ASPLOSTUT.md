@@ -88,10 +88,10 @@ If you use STONNE or OMEGA framework in your research. Please cite-
 ### OMEGA
 
 ```
-@article{garg2021understanding,
+@inproceedings{garg2021understanding,
   title={Understanding the Design Space of Sparse/Dense Multiphase Dataflows for Mapping Graph Neural Networks on Spatial Accelerators},
   author={Garg, Raveesh and Qin, Eric and Mu{\~n}oz-Mart{\'\i}nez, Francisco and Guirado, Robert and Jain, Akshay and Abadal, Sergi and Abell{\'a}n, Jos{\'e} L and Acacio, Manuel E and Alarc{\'o}n, Eduard and Rajamanickam, Sivasankaran and Krishna, Tushar},
-  journal={arXiv preprint arXiv:2103.07977},
+  booktitle={2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)},
   year={2021}
 }
 ```
