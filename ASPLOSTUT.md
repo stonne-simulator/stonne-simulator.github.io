@@ -3,7 +3,7 @@
 
 <h1 align=center>ASPLOS 2022 STONNE Tutorial</h1>
 
-Date: 28th February 2022
+Date: 1st March 2022
 
 ## ORGANIZERS
 
