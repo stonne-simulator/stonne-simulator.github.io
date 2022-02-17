@@ -46,7 +46,7 @@ The planned schedule is as follows
 | 30 min      | Research usecases of STONNE - DNN Architecture and Scheduling   |Francisco         |
 | 30 min      | Beyond DNNs - Dataflow exploration for Graph Neural Networks    |Raveesh           |
 | 15 min      | (Hands-on) OMEGA - A cost model for GNN Dataflows               |Raveesh           |
-| 15 min      | Roadmap for future research/development                         |Manuel Eugenio    |
+| 15 min      | Roadmap for future research/development                         |Manuel E.         |
 
 ## CODEBASES
 
