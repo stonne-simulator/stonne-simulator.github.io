@@ -39,14 +39,14 @@ The planned schedule is as follows
 
 | Time        | Agenda                                                          |Presenter         |
 | ----------- | --------------------------------------------------------------- |------------------|
-| 15 min      | DNN and GNN Accelerators; Flexible Accelerators                 |Tushar            |
-| 15 min      | Cycle accurate simulation motivation and Overview of STONNE     |Manuel, Francisco |
+| 30 min      | DNN and GNN Accelerators; Flexible Accelerators                 |Tushar            |
+| 30 min      | Cycle accurate simulation motivation and Overview of STONNE     |Jose Luis         |
 | 30 min      | (Hands-on) Simulating Dense and Data-dependent DNN Accelerators |Francisco         |
 | 30 min      | (Hands-on) Pytorch and DRAM Integration                         |Francisco         |
-| 15 min      | Research usecases of STONNE - DNN Architecture and Scheduling   |Francisco         |
+| 30 min      | Research usecases of STONNE - DNN Architecture and Scheduling   |Francisco         |
 | 30 min      | Beyond DNNs - Dataflow exploration for Graph Neural Networks    |Raveesh           |
 | 15 min      | (Hands-on) OMEGA - A cost model for GNN Dataflows               |Raveesh           |
-| 15 min      | Roadmap for future research/development                         |Jose Luis         |
+| 15 min      | Roadmap for future research/development                         |Manuel Eugenio    |
 
 ## CODEBASES
 
@@ -61,7 +61,7 @@ Coming soon
 
 ### STONNE
 
-Francisco Muñoz-Matrínez, José L. Abellán, Manuel E. Acacio, and Tushar Krishna. Stonne: Enabling cycle-level microarchitectural simulation for dnn inference accelerators.  In 2021 IEEE International Symposium on Workload Characterization (IISWC), 2021. [(pdf)](https://arxiv.org/pdf/2006.07137.pdf)
+Francisco Muñoz-Martínez, José L. Abellán, Manuel E. Acacio, and Tushar Krishna. Stonne: Enabling cycle-level microarchitectural simulation for dnn inference accelerators.  In 2021 IEEE International Symposium on Workload Characterization (IISWC), 2021. [(pdf)](https://arxiv.org/pdf/2006.07137.pdf)
 
 ### OMEGA
 
