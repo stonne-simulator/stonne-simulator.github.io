@@ -76,7 +76,7 @@ If you use STONNE or OMEGA framework in your research. Please cite-
 
 ```
 @INPROCEEDINGS{STONNE21,
-  author =       {Francisco Mu{\~n}oz-Matr{\'i}nez and Jos{\'e} L. Abell{\'a}n and Manuel E. Acacio and Tushar Krishna},
+  author =       {Francisco Mu{\~n}oz-Mart{\'i}nez and Jos{\'e} L. Abell{\'a}n and Manuel E. Acacio and Tushar Krishna},
   title =        {STONNE: Enabling Cycle-Level Microarchitectural Simulation for DNN Inference Accelerators},
   booktitle =    {2021 IEEE International Symposium on Workload Characterization (IISWC)}, 
   year =         {2021},
