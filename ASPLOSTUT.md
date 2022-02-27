@@ -100,3 +100,6 @@ If you use STONNE or OMEGA framework in your research. Please cite-
 
 ## CONTACT
 Francisco Muñoz-Martínez - francisco.munoz2@um.es
+
+## ACKNOWLEDGMENTS
+This work was supported by NEC Laboratories Europe, Project grant PID2020-112827GB-I00, by MCIN/AEI 10.13039/501100011033, RTI2018-098156-B-C53 (MCIU/AEI/FEDER,UE), NSF OAC 1909900 and US Department of Energy ARIAA co-design center. F. Muñoz-Martínez was supported by grant 20749/FPI/18 from Fundación Séneca.
