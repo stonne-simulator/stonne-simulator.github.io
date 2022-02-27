@@ -52,7 +52,9 @@ The planned schedule is as follows
 ## Docker Image
 To follow the tutorial, we have created a docker image which contains both STONNE and OMEGA tools already installed. We encourage attendees to download and set up the image before the tutorial. To do that, just introduce the next docker command: 
 
+```
 docker run -it franciscomunoz/stonne_omega_img /bin/bash
+```
 
 
 ## CODEBASES
