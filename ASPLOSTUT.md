@@ -37,17 +37,17 @@ Figure on the right shows a brief overview of OMEGA framework built on top of ST
 
 The planned schedule is as follows
 
-| Time        | Agenda                                                          |Presenter         |
-| ----------- | --------------------------------------------------------------- |------------------|
-| 40 min      | DNN and GNN Accelerators; Flexible Accelerators                 |Tushar            |
-| 30 min      | Cycle accurate simulation motivation and Overview of STONNE     |Jose Luis         |
-| 30 min      | (Hands-on) Simulating flexible DNN Accelerators                 |Francisco         |
-| 30 min      | (Hands-on) Research usecase of STONNE - Skipping zeros          |Francisco         |
-| 30 min      | Coffe Break                                                                        |
-| 30 min      | (Hands-on) Adding new operations in STONNE - Conv1D             |Francisco         |
-| 30 min      | Beyond DNNs - Dataflow exploration for Graph Neural Networks    |Raveesh           |
-| 10 min      | (Hands-on) OMEGA - A cost model for GNN Dataflows               |Raveesh           |
-| 15 min      | Roadmap for future research/development                         |Manuel E.         |
+|   Time ET   |  Time CET   | Agenda                                                          |Presenter         |
+| ------------|-------------|-----------------------------------------------------------------|------------------|
+| 8:00-8:40   | 14:00-14:40 | DNN and GNN Accelerators; Flexible Accelerators                 |Tushar            |
+| 8:40-9:10   | 14:40-15:10 | Cycle accurate simulation motivation and Overview of STONNE     |Jose Luis         |
+| 9:10-9:40   | 15:10-15:40 | (Hands-on) Simulating flexible DNN Accelerators                 |Francisco         |
+| 9:40-10:10  | 15:40-16:10 | (Hands-on) Research usecase of STONNE - Skipping zeros          |Francisco         |
+| 10:10-10:30 | 16:10-16:30 | Coffe Break                                                                        |
+| 10:30-11:00 | 16:30-17:00 | (Hands-on) Adding new operations in STONNE - Conv1D             |Francisco         |
+| 11:00-11:30 | 17:00-17:30 | Beyond DNNs - Dataflow exploration for Graph Neural Networks    |Raveesh           |
+| 11:30-11:45 | 17:30-17:45 | (Hands-on) OMEGA - A cost model for GNN Dataflows               |Raveesh           |
+| 11:45-12:00 | 17:45-18:00 | Roadmap for future research/development                         |Manuel E.         |
 
 ## Docker Image
 To follow the tutorial, we have created a docker image which contains both STONNE and OMEGA tools already installed. We encourage attendees to download and set up the image before the tutorial. To do that, just introduce the next docker command: 
