@@ -43,8 +43,8 @@ The planned schedule is as follows
 | 8:40-9:10   | 14:40-15:10 | Cycle accurate simulation motivation and Overview of STONNE     |Jose Luis         |
 | 9:10-9:40   | 15:10-15:40 | (Hands-on) Simulating flexible DNN Accelerators                 |Francisco         |
 | 9:40-10:10  | 15:40-16:10 | (Hands-on) Research usecase of STONNE - Skipping zeros          |Francisco         |
-| 10:10-10:30 | 16:10-16:30 | Coffe Break                                                                        |
-| 10:30-11:00 | 16:30-17:00 | (Hands-on) Adding new operations in STONNE - Conv1D             |Francisco         |
+| 10:10-10:40 | 16:10-16:40 | Coffe Break                                                                        |
+| 10:40-11:15 | 16:40-17:15 | (Hands-on) Adding new operations in STONNE - Conv1D             |Francisco         |
 | 11:15-11:45 | 17:15-17:45 | GNN Dataflow Taxonomy and (Demo) OMEGA framework.               |Raveesh           |
 | 11:45-12:00 | 17:45-18:00 | Roadmap for future research/development                         |Manuel E.         |
 
