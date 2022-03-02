@@ -29,7 +29,7 @@ In this tutorial we demonstrate how STONNE enables research on DNNs accelerators
 
 The figures above give a brief overview of STONNE and OMEGA frameworks.
 
-Figure on the left shows a high-level view of STONNE with its three major modules for full-model simulation flows. The input module feeds the simulator with the values to be computed along with the DNN dataflows and the hardware configuration. Then, the simulation engine performs the cycle-level simulation using its internal simulated microarchitectural building blocks. Finally, the output module returns the statistics of the simulation. For more details, please refer to the [features of STONNE](FEATURE.md). [image](figures/omega.png)
+Figure on the left shows a high-level view of STONNE with its three major modules for full-model simulation flows. The input module feeds the simulator with the values to be computed along with the DNN dataflows and the hardware configuration. Then, the simulation engine performs the cycle-level simulation using its internal simulated microarchitectural building blocks. Finally, the output module returns the statistics of the simulation. For more details, please refer to the [features of STONNE](FEATURE.md).
 
 Figure on the right shows a brief overview of OMEGA framework built on top of STONNE. OMEGA computes GNNs which consist of an SpMM followed by a GEMM phase. STONNE simulator accurately computes the timestamps and buffer accesses for individual phases and these are fed into the inter-phase cost model which computes the final metrics considering the inter-phase (between the phases) dataflow/pipelining strategies. Please refer to the [GNN Dataflows](GNN.md) page for more details.
 
