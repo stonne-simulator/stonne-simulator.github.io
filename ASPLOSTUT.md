@@ -45,8 +45,7 @@ The planned schedule is as follows
 | 9:40-10:10  | 15:40-16:10 | (Hands-on) Research usecase of STONNE - Skipping zeros          |Francisco         |
 | 10:10-10:30 | 16:10-16:30 | Coffe Break                                                                        |
 | 10:30-11:00 | 16:30-17:00 | (Hands-on) Adding new operations in STONNE - Conv1D             |Francisco         |
-| 11:00-11:30 | 17:00-17:30 | Beyond DNNs - Dataflow exploration for Graph Neural Networks    |Raveesh           |
-| 11:30-11:45 | 17:30-17:45 | (Hands-on) OMEGA - A cost model for GNN Dataflows               |Raveesh           |
+| 11:15-11:45 | 17:15-17:45 | GNN Dataflow Taxonomy and (Demo) OMEGA framework.               |Raveesh           |
 | 11:45-12:00 | 17:45-18:00 | Roadmap for future research/development                         |Manuel E.         |
 
 ## Docker Image
