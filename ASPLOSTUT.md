@@ -63,7 +63,8 @@ docker run -it franciscomunoz/stonne_omega_img /bin/bash
 https://github.com/stonne-simulator/stonne
 
 ### OMEGA
-Coming soon
+
+https://github.com/stonne-simulator/omega
 
 ## PUBLICATIONS
 
