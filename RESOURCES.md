@@ -1,5 +1,13 @@
 #### [HOME](README.md) &nbsp; &nbsp; &nbsp; [Features](FEATURE.md) &nbsp; &nbsp; &nbsp;  [Documentation](DOCS.md) &nbsp; &nbsp; &nbsp;  [ASPLOS 2022 Tutorial](ASPLOSTUT.md) &nbsp; &nbsp; &nbsp;  [GNN-Dataflow](GNN.md)&nbsp; &nbsp; &nbsp;  [Codebase](https://github.com/stonne-simulator/stonne) &nbsp; &nbsp; &nbsp; [Resources](RESOURCES.md)
 
+## Docker Image - STONNE and OMEGA
+
+### ASPLOS Tutorial
+
+```
+docker run -it franciscomunoz/stonne_omega_img /bin/bash
+```
+
 ## Github codebases
 
 ### STONNE
