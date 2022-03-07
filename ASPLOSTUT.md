@@ -37,16 +37,16 @@ Figure on the right shows a brief overview of OMEGA framework built on top of ST
 
 The planned schedule is as follows
 
-|   Time ET   |  Time CET   | Agenda                                                          |Presenter         |
-| ------------|-------------|-----------------------------------------------------------------|------------------|
-| 8:00-8:40   | 14:00-14:40 | DNN and GNN Accelerators; Flexible Accelerators                 |Tushar            |
-| 8:40-9:10   | 14:40-15:10 | Cycle accurate simulation motivation and Overview of STONNE     |Jose Luis         |
-| 9:10-9:40   | 15:10-15:40 | (Hands-on) Simulating flexible DNN Accelerators                 |Francisco         |
-| 9:40-10:10  | 15:40-16:10 | (Hands-on) Research usecase of STONNE - Skipping zeros          |Francisco         |
-| 10:10-10:40 | 16:10-16:40 | Coffe Break                                                                        |
-| 10:40-11:15 | 16:40-17:15 | (Hands-on) Adding new operations in STONNE - Conv1D             |Francisco         |
-| 11:15-11:45 | 17:15-17:45 | GNN Dataflow Taxonomy and (Demo) OMEGA framework.               |Raveesh           |
-| 11:45-12:00 | 17:45-18:00 | Roadmap for future research/development                         |Manuel E.         |
+|   Time ET   |  Time CET   | Agenda                                                          |Presenter         | Slides |
+| ------------|-------------|-----------------------------------------------------------------|------------------|--------|
+| 8:00-8:40   | 14:00-14:40 | DNN and GNN Accelerators; Flexible Accelerators                 |Tushar            |  [Link](https://github.com/stonne-simulator/stonne-simulator.github.io/blob/main/slides/ASPLOS_STONNE_Tutorial_Part1.pdf)   |
+| 8:40-9:10   | 14:40-15:10 | Cycle accurate simulation motivation and Overview of STONNE     |Jose Luis         |  [Link](https://github.com/stonne-simulator/stonne-simulator.github.io/blob/main/slides/ASPLOS_STONNE_Tutorial_Part2.pdf)  |
+| 9:10-9:40   | 15:10-15:40 | (Hands-on) Simulating flexible DNN Accelerators                 |Francisco         |  [Link](https://github.com/stonne-simulator/stonne-simulator.github.io/blob/main/slides/ASPLOS_STONNE_Tutorial_Part3.pdf)  |       
+| 9:40-10:10  | 15:40-16:10 | (Hands-on) Research usecase of STONNE - Skipping zeros          |Francisco         |  [Link](https://github.com/stonne-simulator/stonne-simulator.github.io/blob/main/slides/ASPLOS_STONNE_Tutorial_Part3.pdf)  |
+| 10:10-10:40 | 16:10-16:40 | Coffe Break                                                                                 |
+| 10:40-11:15 | 16:40-17:15 | (Hands-on) Adding new operations in STONNE - Conv1D             |Francisco         |  [Link](https://github.com/stonne-simulator/stonne-simulator.github.io/blob/main/slides/ASPLOS_STONNE_Tutorial_Part3.pdf)  |
+| 11:15-11:45 | 17:15-17:45 | GNN Dataflow Taxonomy and (Demo) OMEGA framework.               |Raveesh           |  [Link](https://github.com/stonne-simulator/stonne-simulator.github.io/blob/main/slides/ASPLOS_STONNE_Tutorial_Part4.pdf)  |
+| 11:45-12:00 | 17:45-18:00 | Roadmap for future research/development                         |Manuel E.         |  [Link](https://github.com/stonne-simulator/stonne-simulator.github.io/blob/main/slides/ASPLOS_STONNE_Tutorial_Part5.pdf)  |
 
 ## Docker Image
 To follow the tutorial, we have created a docker image which contains both STONNE and OMEGA tools already installed. We encourage attendees to download and set up the image before the tutorial. To do that, just introduce the next docker command: 
