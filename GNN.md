@@ -1,6 +1,12 @@
 #### [HOME](README.md) &nbsp; &nbsp; &nbsp; [Features](FEATURE.md) &nbsp; &nbsp; &nbsp;  [Documentation](DOCS.md) &nbsp; &nbsp; &nbsp;  [ASPLOS 2022 Tutorial](ASPLOSTUT.md) &nbsp; &nbsp; &nbsp;  [GNN-Dataflow](GNN.md)&nbsp; &nbsp; &nbsp;  [Codebase](https://github.com/stonne-simulator/stonne) &nbsp; &nbsp; &nbsp; [Resources](RESOURCES.md)
 
-<h1 align=center>GNN Dataflow Exploration using OMEGA</h1>
+<img src="OMEGA LOGO.jpg">
+
+#    OMEGA GNN Cost Modeling Framework
+
+OMEGA (***O***bserving ***M***apping ***E***fficiency over ***G***NN ***A***ccelerator) framework is the cost model for inter-phase Graph Neural Network (GNN) dataflows. OMEGA can be used to model other SpMM and GEMM multiphase dataflows as well.
+
+# GNN Dataflow Exploration using OMEGA
 
 <img src="figures/computations.png">
 
