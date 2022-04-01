@@ -26,7 +26,7 @@ STONNE simulator can also be called from within PyTorch. Please refer to the [do
 
 STONNE simulator can be modified to enable research beyond just DNN to other applications like Graph Neural Networks.
 
-For a detail research usecase for GNN Dataflow Analysis and the [***OMEGA***](https://github.com/stonne-simulator/omega) GNN dataflow cost modelling framework built on STONNE, please check [GNN-Dataflow usecase](GNN.md) and [the corresponding GNN-Datalow paper](https://arxiv.org/abs/2103.07977)
+For a detail research usecase for Graph Neural Network (GNN) Dataflow Analysis and the [***OMEGA***](https://github.com/stonne-simulator/omega) GNN dataflow cost modelling framework built on STONNE, please check [GNN-Dataflow usecase](GNN.md) and [the corresponding GNN-Datalow paper](https://arxiv.org/abs/2103.07977)
 
 ## Bibtex Citation
 Please, if you use STONNE, please cite us:
