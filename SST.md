@@ -28,6 +28,7 @@ STONNE has been integrated as a component called sstStonne in SST. sstStonne con
 <p>
 <img src="figures/sstStonne-memHierarchy.jpg">
 </p>
+
 ## How to install sstStonne
 
 Please install sst-elements-with-stonne following the installation description presented in [sst-simulator.org](http://sst-simulator.org). 
