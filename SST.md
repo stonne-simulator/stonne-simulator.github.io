@@ -17,10 +17,6 @@ The Structural Simulation Toolkit (SST) was developed to explore innovations in 
 
 Visit [sst-simulator.org](http://sst-simulator.org) to learn more about SST.
 
-See [Contributing](https://github.com/sstsimulator/sst-elements/blob/devel/CONTRIBUTING.md) to learn how to contribute to SST.
-
-##### [LICENSE](https://github.com/sstsimulator/sst-elements/blob/devel/LICENSE)
-
 ---
 
 # SST-STONNE simulator
@@ -30,6 +26,10 @@ STONNE has been integrated as a component called sstStonne in SST. sstStonne con
 <p>
 <img src="figures/sstStonne_memHierarchy.jpg">
 </p>
+
+## Codebase
+
+Github repository - https://github.com/stonne-simulator/sst-elements-with-stonne
 
 ## How to install sstStonne
 
