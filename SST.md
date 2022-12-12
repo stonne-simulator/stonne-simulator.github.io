@@ -1,6 +1,6 @@
 ![SST](http://sst-simulator.org/img/sst-logo-small.png)
 <p align="center">
- <img src="figures/stonne-small.jpg" height="25%" width="25%">
+ <img src="figures/stonne-small.jpg">
 </p>
 
 # Structural Simulation Toolkit (SST)
