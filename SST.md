@@ -29,7 +29,7 @@ STONNE has been integrated as a component called sstStonne in SST. sstStonne con
 
 ## Codebase
 
-Github repository - [https://github.com/stonne-simulator/sst-elements-with-stonne]
+Github repository - [https://github.com/stonne-simulator/sst-elements-with-stonne](https://github.com/stonne-simulator/sst-elements-with-stonne)
 
 ## How to install sstStonne
 
