@@ -25,8 +25,9 @@ See [Contributing](https://github.com/sstsimulator/sst-elements/blob/devel/CONTR
 
 STONNE has been integrated as a component called sstStonne in SST. sstStonne connects to memHierarchy component to faithfully model the memory hierarchy of the accelerator. A schematic view of sstStonne is presented below:
 
+<p>
 <img src="figures/sstStonne-memHierarchy.jpg">
-
+</p>
 ## How to install sstStonne
 
 Please install sst-elements-with-stonne following the installation description presented in [sst-simulator.org](http://sst-simulator.org). 
