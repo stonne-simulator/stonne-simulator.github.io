@@ -19,7 +19,7 @@ Visit [sst-simulator.org](http://sst-simulator.org) to learn more about SST.
 
 ---
 
-# SST-STONNE simulator
+# SST-STONNE Element
 
 STONNE has been integrated as a component called sstStonne in SST. sstStonne connects to memHierarchy component to faithfully model the memory hierarchy of the accelerator. A schematic view of sstStonne is presented below:
 
@@ -29,7 +29,7 @@ STONNE has been integrated as a component called sstStonne in SST. sstStonne con
 
 ## Codebase
 
-Github repository - https://github.com/stonne-simulator/sst-elements-with-stonne
+Github repository - [https://github.com/stonne-simulator/sst-elements-with-stonne]
 
 ## How to install sstStonne
 
