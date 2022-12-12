@@ -1,8 +1,4 @@
-#### [HOME](README.md) &nbsp; &nbsp; &nbsp; [Features](FEATURE.md) &nbsp; &nbsp; &nbsp;  [Documentation](DOCS.md) &nbsp; &nbsp; &nbsp;  <details>
-<summary>Tutorials</summary>
-* ASPLOS 2022
-* ASPLOS 2023
-</details> &nbsp; &nbsp; &nbsp;  [GNN-Dataflow](GNN.md)&nbsp; &nbsp; &nbsp;  [Codebase](https://github.com/stonne-simulator/stonne) &nbsp; &nbsp; &nbsp; [Resources](RESOURCES.md)
+#### [HOME](README.md) &nbsp; &nbsp; &nbsp; [Features](FEATURE.md) &nbsp; &nbsp; &nbsp;  [Documentation](DOCS.md) &nbsp; &nbsp; &nbsp; [ASPLOS'22-Tutorial](ASPLOSTUT.md) &nbsp; &nbsp; &nbsp;  [GNN-Dataflow](GNN.md)&nbsp; &nbsp; &nbsp;  [Codebase](https://github.com/stonne-simulator/stonne) &nbsp; &nbsp; &nbsp; [Resources](RESOURCES.md)
 
 <p align="center">
  <img src="figures/stonne-logo.png" height="25%" width="25%">
