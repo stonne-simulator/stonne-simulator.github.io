@@ -2,7 +2,7 @@
 
 ## Docker Image - STONNE and OMEGA
 
-### ASPLOS Tutorial
+### ASPLOS 2022 Tutorial
 
 ```
 docker run -it franciscomunoz/stonne_omega_img /bin/bash
@@ -17,6 +17,10 @@ https://github.com/stonne-simulator/stonne
 ### OMEGA ([Cost model for GNN Dataflows](GNN.md))
 
 https://github.com/stonne-simulator/omega
+
+### SST-STONNE
+
+https://github.com/stonne-simulator/sst-elements-with-stonne
 
 ## Publications
 
