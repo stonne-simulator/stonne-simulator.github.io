@@ -38,7 +38,7 @@ Figure above shows a brief overview of OMEGA framework built on top of STONNE. O
   <img src="figures/sstStonne-memHierarchy.jpg" height="50%" width="50%">
 </p>
 
-Figure above shows an overview of SST and STONNE connection.
+Figure above shows an overview of STONNE connection to the memory hierarchy. The requests go through the cache hierarchy instead of scratchpad, thus providing an ability to simulate shared memory heterogeneous systems.
 
 ## SCHEDULE
 
