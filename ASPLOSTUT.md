@@ -10,7 +10,7 @@ Date: 26th March 2023
 [Francisco Muñoz-Martínez](https://www.linkedin.com/in/fr-munoz-mrtinez/) (Universidad de Murcia) <br>
 [Raveesh Garg](https://sites.gatech.edu/raveesh/) (Georgia Institute of Technology) <br>
 [Tushar Krishna](https://tusharkrishna.ece.gatech.edu) (Georgia Institute of Technology) <br>
-[José L. Abellán](https://www.linkedin.com/in/josé-l-abellán-06263089/) (Universidad Católica de Murcia) <br>
+[José L. Abellán](https://www.linkedin.com/in/josé-l-abellán-06263089/) (Universidad de Murcia) <br>
 [Manuel E. Acacio](https://webs.um.es/meacacio/) (Universidad de Murcia) <br>
 
 ## OVERVIEW
