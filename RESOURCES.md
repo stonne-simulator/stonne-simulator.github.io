@@ -10,7 +10,7 @@ docker run -it franciscomunoz/stonne_omega_img /bin/bash
 
 ## Github codebases
 
-### STONNE
+### STONNE ([Simulator for DNN accelerators and dataflows])
 
 https://github.com/stonne-simulator/stonne
 
