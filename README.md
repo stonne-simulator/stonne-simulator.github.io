@@ -1,5 +1,7 @@
 #### [HOME](README.md) &nbsp; &nbsp; &nbsp; [Features](FEATURE.md) &nbsp; &nbsp; &nbsp;  [Docs](DOCS.md) &nbsp; &nbsp; &nbsp; [ASPLOS 2023 Tutorial](ASPLOSTUT.md)  &nbsp; &nbsp; &nbsp;  [GNN-Dataflow](GNN.md)&nbsp; &nbsp; &nbsp;  [Code](https://github.com/stonne-simulator/stonne) &nbsp; &nbsp; &nbsp; [Resources](RESOURCES.md) &nbsp; &nbsp; &nbsp; [SST Integration](SST.md)
 
+<div style="text-align: justify">
+
 <p align="center">
  <img src="figures/stonne-logo.png" height="25%" width="25%">
 </p>
@@ -43,3 +45,5 @@ Please, if you use STONNE, please cite us:
 ```
 ## Contact
 For any questions or issues related to the simulator, submit an issue at https://github.com/stonne-simulator/stonne/issues.
+
+</div>
