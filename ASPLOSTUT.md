@@ -7,7 +7,7 @@ Date: 26th March 2023
 
 Venue: Vancouver, BC, Canada
 
-<span style="color:red">Important: ASPLOS requires attendees to specify their intention to attend the tutorial while registering for the conference.</span>
+<b><span style="color:red">Important: ASPLOS requires attendees to specify their intention to attend the tutorial while registering for the conference.</span></b>
 
 ## ORGANIZERS
 
