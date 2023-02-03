@@ -5,7 +5,7 @@
 
 Date: 26th March 2023
 
-<b><span style="color:red">Important: ASPLOS requires attendees to specify their intention to attend the tutorial while registering for the conference. </span></b>.
+#### :heavy_exclamation_mark: Important: ASPLOS requires attendees to specify their intention to attend the tutorial while registering for the conference.
 
 ## ORGANIZERS
 
