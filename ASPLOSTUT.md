@@ -63,6 +63,10 @@ https://github.com/stonne-simulator/stonne
 
 https://github.com/stonne-simulator/omega
 
+### SST-STONNE
+
+https://github.com/stonne-simulator/sst-elements-with-stonne
+
 ## PUBLICATIONS
 
 ### STONNE
