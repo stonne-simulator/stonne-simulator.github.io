@@ -46,7 +46,17 @@ Figure above shows an overview of STONNE connection to the memory hierarchy. The
 
 ## SCHEDULE
 
-Coming soon
+Latest slides will be updated after the tutorial
+
+| Time PT(pm) | Agenda                                                          |Presenter  | Slides |
+| ------------|-----------------------------------------------------------------------------|------------------|--------|
+| 1:40-2:00   | DNN and GNN Accelerators; Flexible Accelerators                |Jose Luis   |  Coming soon |
+| 2:00-2:20   |Cycle accurate simulation motivation and Overview of STONNE     |Jose Luis   |  Coming soon  |
+| 2:20-3:20   |(Hands-on) STONNE                                               |Francisco         |  Coming soon |       
+| 3:20-3:40 |Coffe Break                                                                                 |
+| 3:40-4:10 |(Hands-on) SST-STONNE                                             |Francisco         |  Coming soon  |
+| 4:10-4:40 |GNN Dataflow Taxonomy and (Demo) OMEGA framework.               |Raveesh           |  Coming soon |
+| 4:40-5:00 |Roadmap for future research/development                         |Tushar         |  Coming soon  |
 
 
 
