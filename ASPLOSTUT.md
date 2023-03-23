@@ -50,7 +50,7 @@ Latest slides will be updated after the tutorial
 
 | Time PT(pm) | Agenda                                                          |Presenter  | Slides |
 | ------------|-----------------------------------------------------------------------------|------------------|--------|
-| 1:40-2:00   | DNN and GNN Accelerators; Flexible Accelerators                |Jose Luis   |  Coming soon |
+| 1:40-2:00   | A Communication-Centric Approach to Flexible Accelerator Design |Jose Luis   |  Coming soon |
 | 2:00-2:20   |Cycle accurate simulation motivation and Overview of STONNE     |Jose Luis   |  Coming soon  |
 | 2:20-3:20   |(Hands-on) STONNE                                               |Francisco         |  Coming soon |       
 | 3:20-3:40 |Coffe Break                                                                                 |
