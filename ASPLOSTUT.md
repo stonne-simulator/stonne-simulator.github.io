@@ -48,15 +48,15 @@ Figure above shows an overview of STONNE connection to the memory hierarchy. The
 
 Latest slides will be updated after the tutorial
 
-| Time PT(pm) | Agenda                                                          |Presenter  | Slides |
-| ------------|-----------------------------------------------------------------------------|------------------|--------|
-| 1:40-2:00   | A Communication-Centric Approach to Flexible Accelerator Design |Jose Luis   |  [Welcome](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/WELCOME.pptx) and [PART1](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/PART1_Intro.pptx) |
-| 2:00-2:20   |Cycle accurate simulation motivation and Overview of STONNE     |Jose Luis   |  [PART2](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/PART2_STONNE.pptx)  |
-| 2:20-3:20   |(Hands-on) STONNE                                               |Francisco         |  [PART3](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/PART3_STONNE_HANDSON.pptx) |       
+| Time PT(pm) | Agenda                                                          |Presenter  | Slides | Video (timestamps)|
+| ------------|-----------------------------------------------------------------------------|------------------|--------|-----------|
+| 1:40-2:00   | A Communication-Centric Approach to Flexible Accelerator Design |Jose Luis   |  [Welcome](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/WELCOME.pptx) and [PART1](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/PART1_Intro.pptx) | [Link to timestamp](https://www.youtube.com/watch?v=GbbdnrTdnEo&t=0s)|
+| 2:00-2:20   |Cycle accurate simulation motivation and Overview of STONNE     |Jose Luis   |  [PART2](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/PART2_STONNE.pptx)  |[Link to timestamp](https://www.youtube.com/watch?v=GbbdnrTdnEo&t=2463s)|
+| 2:20-3:20   |(Hands-on) STONNE                                               |Francisco         |  [PART3](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/PART3_STONNE_HANDSON.pptx) |   [Link to timestamp](https://www.youtube.com/watch?v=GbbdnrTdnEo&t=4060s)|    
 | 3:20-3:40 |Coffe Break                                                                                 |
-| 3:40-4:10 |(Hands-on) SST-STONNE                                             |Francisco         |  Included in PART3 |
-| 4:10-4:40 |GNN Dataflow Taxonomy and (Demo) OMEGA framework.               |Raveesh           |  [PART4](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/PART4_OMEGA_tut_final.pptx) |
-| 4:40-5:00 |Roadmap for future research/development                         |Tushar         |  [PART5](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/PART5_ROADMAP_FINALREMARKS.pptx)  |
+| 3:40-4:10 |(Hands-on) SST-STONNE                                             |Francisco         |  Included in PART3 |[Link to timestamp](https://www.youtube.com/watch?v=GbbdnrTdnEo&t=8295s)|
+| 4:10-4:40 |GNN Dataflow Taxonomy and (Demo) OMEGA framework.               |Raveesh           |  [PART4](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/PART4_OMEGA_tut_final.pptx) |[Link to timestamp](https://www.youtube.com/watch?v=GbbdnrTdnEo&t=9742s)|
+| 4:40-5:00 |Roadmap for future research/development                         |Tushar         |  [PART5](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/PART5_ROADMAP_FINALREMARKS.pptx)  |[Link to timestamp](https://www.youtube.com/watch?v=GbbdnrTdnEo&t=11388s)|
 
 
 
