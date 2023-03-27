@@ -64,6 +64,9 @@ Latest slides will be updated after the tutorial
 docker run –it stonnesimulator/stonne-simulators
 git clone https://github.com/stonne-simulator/tutorials (inside docker)
 
+## Tutorial video recording
+Coming soon
+
 ## CODEBASES
 
 ### STONNE
