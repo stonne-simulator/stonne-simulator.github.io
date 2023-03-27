@@ -65,7 +65,7 @@ docker run –it stonnesimulator/stonne-simulators
 git clone https://github.com/stonne-simulator/tutorials (inside docker)
 
 ## Tutorial video recording
-Coming soon
+[Link](https://drive.google.com/file/d/1trQlI4UyTP0S7o9metQ7nbALl7BwR-zo/view?usp=sharing)
 
 ## CODEBASES
 
