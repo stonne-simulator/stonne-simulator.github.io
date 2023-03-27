@@ -46,7 +46,11 @@ Figure above shows an overview of STONNE connection to the memory hierarchy. The
 
 ## SCHEDULE
 
-Latest slides will be updated after the tutorial
+
+### Tutorial video recording
+[YouTube](https://youtu.be/GbbdnrTdnEo)
+
+Link to timestamps of individual sections is included in the table below
 
 | Time PT(pm) | Agenda                                                          |Presenter  | Slides | Video (timestamps)|
 | ------------|-----------------------------------------------------------------------------|------------------|--------|-----------|
@@ -63,9 +67,6 @@ Latest slides will be updated after the tutorial
 ## Docker Image
 docker run –it stonnesimulator/stonne-simulators
 git clone https://github.com/stonne-simulator/tutorials (inside docker)
-
-## Tutorial video recording
-[YouTube](https://youtu.be/GbbdnrTdnEo)
 
 ## CODEBASES
 
