@@ -52,11 +52,11 @@ Latest slides will be updated after the tutorial
 | ------------|-----------------------------------------------------------------------------|------------------|--------|
 | 1:40-2:00   | A Communication-Centric Approach to Flexible Accelerator Design |Jose Luis   |  [Welcome](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/WELCOME.pptx) and [PART1](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/PART1_Intro.pptx) |
 | 2:00-2:20   |Cycle accurate simulation motivation and Overview of STONNE     |Jose Luis   |  [PART2](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/PART2_STONNE.pptx)  |
-| 2:20-3:20   |(Hands-on) STONNE                                               |Francisco         |  Coming soon |       
+| 2:20-3:20   |(Hands-on) STONNE                                               |Francisco         |  [PART3](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/PART3_STONNE_HANDSON.pptx) |       
 | 3:20-3:40 |Coffe Break                                                                                 |
-| 3:40-4:10 |(Hands-on) SST-STONNE                                             |Francisco         |  Coming soon  |
-| 4:10-4:40 |GNN Dataflow Taxonomy and (Demo) OMEGA framework.               |Raveesh           |  Coming soon |
-| 4:40-5:00 |Roadmap for future research/development                         |Tushar         |  Coming soon  |
+| 3:40-4:10 |(Hands-on) SST-STONNE                                             |Francisco         |  Included in PART3 |
+| 4:10-4:40 |GNN Dataflow Taxonomy and (Demo) OMEGA framework.               |Raveesh           |  [PART4](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/PART4_OMEGA_tut_final.pptx) |
+| 4:40-5:00 |Roadmap for future research/development                         |Tushar         |  [PART5](https://github.com/stonne-simulator/stonne-simulator.github.io/raw/main/PART5_ROADMAP_FINALREMARKS.pptx)  |
 
 
 
