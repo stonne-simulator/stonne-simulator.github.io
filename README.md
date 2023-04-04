@@ -28,6 +28,10 @@ STONNE simulator can be modified to enable research beyond just DNN to other app
 
 For a detail research usecase for Graph Neural Network (GNN) Dataflow Analysis and the [***OMEGA***](https://github.com/stonne-simulator/omega) GNN dataflow cost modelling framework built on STONNE, please check [GNN-Dataflow usecase](GNN.md) and [the corresponding GNN-Datalow paper](https://arxiv.org/abs/2103.07977)
 
+STONNE is also integrated with SST, to model detailed memory hierarchy ([SST-STONNE webpage](SST.md))([Github](https://github.com/stonne-simulator/sst-elements-with-stonne)).
+
+We propose a novel sparse accelerator Flexagon which models Inner-Product, Outer Product and Gustavsons dataflows in a single substrate. It is modeled in SST-STONNE. ([Flexagon webpage](FLEXAGON.md))([Paper pdf](https://arxiv.org/pdf/2301.10852.pdf))
+
 ## Bibtex Citation
 Please, if you use STONNE, please cite us:
 ```
