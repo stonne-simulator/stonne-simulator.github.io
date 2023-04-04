@@ -94,7 +94,7 @@ Raveesh Garg, Eric Qin, Francisco Muñoz-Martínez, Robert Guirado, Akshay Jain,
 
 ## CITATIONS
 
-If you use STONNE or OMEGA framework in your research or if you run flexagon in SST-STONNE. Please cite-
+If you use STONNE or OMEGA framework in your research or if you run on flexagon accelerator model in SST-STONNE. Please cite-
 
 ### STONNE
 
