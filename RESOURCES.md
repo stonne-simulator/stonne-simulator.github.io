@@ -2,10 +2,10 @@
 
 ## Docker Image - STONNE and OMEGA
 
-### ASPLOS 2022 Tutorial
+### ASPLOS 2023 Tutorial
 
 ```
-docker run -it franciscomunoz/stonne_omega_img /bin/bash
+docker run -it stonnesimulator/stonne-simulators
 ```
 
 ## Github codebases
