@@ -32,11 +32,15 @@ STONNE is also integrated with SST, to model detailed memory hierarchy ([SST-STO
 
 We propose a novel sparse accelerator Flexagon which models Inner-Product, Outer Product and Gustavsons dataflows in a single substrate. It is modeled in SST-STONNE. ([Flexagon webpage](FLEXAGON.md))([Paper pdf](https://arxiv.org/pdf/2301.10852.pdf))
 
-## Bibtex Citation
-Please, if you use STONNE, please cite us:
+## BIBTEX CITATIONS
+
+If you use STONNE or OMEGA framework in your research or if you run on flexagon accelerator model in SST-STONNE. Please cite-
+
+### STONNE
+
 ```
 @INPROCEEDINGS{STONNE21,
-  author =       {Francisco Mu{\~n}oz-Matr{\'i}nez and Jos{\'e} L. Abell{\'a}n and Manuel E. Acacio and Tushar Krishna},
+  author =       {Francisco Mu{\~n}oz-Mart{\'i}nez and Jos{\'e} L. Abell{\'a}n and Manuel E. Acacio and Tushar Krishna},
   title =        {STONNE: Enabling Cycle-Level Microarchitectural Simulation for DNN Inference Accelerators},
   booktitle =    {2021 IEEE International Symposium on Workload Characterization (IISWC)}, 
   year =         {2021},
@@ -45,5 +49,29 @@ Please, if you use STONNE, please cite us:
   pages =        {},
 }
 ```
+
+### OMEGA
+
+```
+@inproceedings{garg2021understanding,
+  title={Understanding the Design-Space of Sparse/Dense Multiphase GNN dataflows on Spatial Accelerators},
+  author={Garg, Raveesh and Qin, Eric and Mu{\~n}oz-Mart{\'\i}nez, Francisco and Guirado, Robert and Jain, Akshay and Abadal, Sergi and Abell{\'a}n, Jos{\'e} L and Acacio, Manuel E and Alarc{\'o}n, Eduard and Rajamanickam, Sivasankaran and Krishna, Tushar},
+  booktitle={2022 IEEE International Parallel and Distributed Processing Symposium (IPDPS)},
+  year={2022}
+}
+```
+
+### Flexagon
+
+```
+@inproceedings{munoz2023flexagon,
+  title={Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing},
+  author={Mu{\~n}oz-Mart{\'\i}nez, Francisco and Garg, Raveesh and Pellauer, Michael and Abell{\'a}n, Jos{\'e} L and Acacio, Manuel E and Krishna, Tushar},
+  booktitle={Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3},
+  pages={252--265},
+  year={2023}
+}
+```
+
 ## Contact
 For any questions or issues related to the simulator, submit an issue at https://github.com/stonne-simulator/stonne/issues.
