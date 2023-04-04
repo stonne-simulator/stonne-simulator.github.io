@@ -66,6 +66,7 @@ Link to timestamps of individual sections is included in the table below
 
 ## Docker Image
 docker run -it stonnesimulator/stonne-simulators
+
 git clone https://github.com/stonne-simulator/tutorials (inside docker)
 
 ## CODEBASES
