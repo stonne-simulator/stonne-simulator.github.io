@@ -93,6 +93,10 @@ Francisco Muñoz-Martínez, José L. Abellán, Manuel E. Acacio, and Tushar Kris
 
 Raveesh Garg, Eric Qin, Francisco Muñoz-Martínez, Robert Guirado, Akshay Jain, Sergi Abadal, José L Abellán, Manuel E Acacio, Eduard Alarcón, Sivasankaran Rajamanickam, and Tushar Krishna.  Understanding the Design-Space of Sparse/Dense Multiphase GNN dataflows on Spatial Accelerators. In 2022 IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2022. [(pdf)](https://arxiv.org/pdf/2103.07977)
 
+### Flexagon
+
+Francisco Muñoz-Martínez, Raveesh Garg, Michael Pellauer, José L. Abellán, Manuel E. Acacio, and Tushar Krishna. 2023. Flexagon: A Multi-dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing. In Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3 (ASPLOS 2023). Association for Computing Machinery, New York, NY, USA, 252–265. https://doi.org/10.1145/3582016.3582069 .[(pdf)](https://arxiv.org/pdf/2301.10852.pdf)
+
 ## CITATIONS
 
 If you use STONNE or OMEGA framework in your research or if you run on flexagon accelerator model in SST-STONNE. Please cite-
