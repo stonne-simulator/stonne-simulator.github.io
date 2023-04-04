@@ -66,3 +66,15 @@ Please if you use sstStonne component cite us:
 }
 ```
 
+If you run on the Flexagon accelerator model, please cite-
+
+```
+@inproceedings{munoz2023flexagon,
+  title={Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing},
+  author={Mu{\~n}oz-Mart{\'\i}nez, Francisco and Garg, Raveesh and Pellauer, Michael and Abell{\'a}n, Jos{\'e} L and Acacio, Manuel E and Krishna, Tushar},
+  booktitle={Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 3},
+  pages={252--265},
+  year={2023}
+}
+```
+
