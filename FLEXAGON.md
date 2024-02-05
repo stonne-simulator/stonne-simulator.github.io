@@ -19,10 +19,12 @@ In this work we present Flexagon, the first SpMSpM reconfigurable accelerator th
 
 We model Flexagon in [SST-STONNE](SST.md).
 
-Up to date docker image
+### Up to date docker image
+
 docker run -it stonnesimulator/stonne-simulators
 
-Video
+### Video
+https://www.youtube.com/watch?v=GbbdnrTdnEo&t=8295s 
 
 
 # Resources
