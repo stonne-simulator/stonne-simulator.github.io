@@ -15,7 +15,15 @@ In this work we present Flexagon, the first SpMSpM reconfigurable accelerator th
  <img src="figures/Flex2.png">
 </p>
 
+# Flexagon Artifacts
+
 We model Flexagon in [SST-STONNE](SST.md).
+
+Up to date docker image
+
+
+Video
+
 
 # Resources
 
